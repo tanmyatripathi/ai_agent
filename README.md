@@ -20,14 +20,6 @@ Ollama + LLaMA-3 – AI model backend
 subprocess – for calling Ollama models
 (Optional) APIs (Instagram Graph, YouTube Data API, etc.) for scraping comments
 
-*📂 Project Structure*
-
-ai-agent/
-│── agent_logic.py      # agent script
-│── app.py              # main script
-│── comments.txt        # sample viewer comments (manual input for now)
-│── README.md           # project documentation
-
 *⚡ Quick Start*
 
 1. Clone Repo
