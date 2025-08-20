@@ -35,9 +35,9 @@ python app.py
 
 4. Example Output
 Viewer Themes:
-1. Excitement about AI tools
-2. Requests for tutorials
-3. Desire for time-saving workflows
+      1. Excitement about AI tools
+      2. Requests for tutorials
+      3. Desire for time-saving workflows  
 
 Suggested Content Ideas:
 - "5 AI tools to cut your editing time in half"
