@@ -46,8 +46,8 @@ Suggested Content Ideas:
 
 *🚧 Roadmap*
 
-Automate scraping from Instagram DMs & comments
-Add YouTube/TikTok API support
-Build simple frontend dashboard for creators
+Automate scraping from Instagram DMs & comments;
+Add YouTube/TikTok API support;
+Build simple frontend dashboard for creators;
 Expand beyond text → analyze video transcripts, polls, etc.
 
